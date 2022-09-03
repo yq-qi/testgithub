@@ -3,3 +3,7 @@ test第一次操作
 test11
 git branch king update
 git branch king second
+
+合并后的信息t
+
+提交a
